@@ -7,6 +7,6 @@ The dataset - which contains the raw sales data;
 
 The Power BI dashboard - which transforms that data into meaningful visuals;
 
-The PowerPoint presentation, which summarizes the findings, showcases the dashboard visuals, and highlights key business insights for stakeholders.
+The PowerPoint presentation - which summarizes the findings, showcases the dashboard visuals, and highlights key business insights for stakeholders.
 
 These 3 Documents together provides complete, data-driven analysis to support strategic decisions.
